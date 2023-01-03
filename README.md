@@ -4,6 +4,8 @@ Welcome to the Pawb.Social network repository! Here we house our code of conduct
 
 We're creating a network of instances aimed at providing a safe and welcoming place for those within the furry fandom and LGBTQ+ community, and currently operate two instances: https://furry.engineer and https://pawb.fun.
 
+We have agreed to the [Mastodon Server Covenant](https://joinmastodon.org/covenant).
+
 ## Current Service Status
 
 You can find the latest status info for all of our pawb.social services at https://status.pawb.social.
