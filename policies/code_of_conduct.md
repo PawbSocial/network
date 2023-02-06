@@ -11,7 +11,7 @@ By utilizing any of our services, you agree to abide by this Code of Conduct and
 ### **1. Illegal content or conduct**
 Content or conduct that is illegal in the United States is strictly prohibited. Pawb.Social services are operated and maintained within the United States and all content must comply with the federal laws of the United States.
 
-For the avoidance of doubt, this includes but is not limited to: Instructions on how to commit crimes, encouraging acts of violence or terrorism, child pornography or depictions thereof, and unauthorized access or exploitation of computer systems.
+For the avoidance of doubt, this includes but is not limited to: Instructions on how to commit crimes, encouraging acts of violence or terrorism, child sexual abuse material (CSAM) or depictions thereof, and unauthorized access or exploitation of computer systems.
 
 ### **2. Racism, sexism, homophobia, transphobia, and other discrimination is prohibited**
 We take a hard stance against any form of discrimination or abuse towards users in our community. Users who engage in such conduct are not welcome on our platform.
@@ -53,7 +53,7 @@ Political discussions and debates, due to the polarizing and sensitive nature of
 
 Discussions of politics can be emotionally destabilizing and distressing to others given recent political events.
 
-**However, content promoting and supporting marginalized groups, or activism towards positive social change, such as BLM, trans rights, LGBTQ+ rights, are exempt from this rule.** Additionally, the expression of identity and lived experience do not fall under the category of ‘political discussion’ for the purposes of this rule.
+**However, content promoting and supporting marginalized groups, or activism towards positive social change, such as BLM, trans rights, LGBTQ+ rights, are exempt from this rule. Additionally, the expression of identity and lived experience do not fall under the category of ‘political discussion’ for the purposes of this rule.**
 
 Per **Rule 2** *(Racism, sexism, homophobia, transphobia, and other discrimination is prohibited)*, any content containing political rhetoric against a marginalized group is expressly prohibited and will not be tolerated.
 
